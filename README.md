@@ -23,6 +23,6 @@ There are 3 unit tests in the project, built using JUnit
 As we can see, the bigger the bitmap, the accurate the spellCheck function is.
 
 # References
-http://codekata.com/kata/kata05-bloom-filters/
-https://stackoverflow.com/questions/15518418/whats-behind-the-hashcode-method-for-string-in-java
+http://codekata.com/kata/kata05-bloom-filters/<br/>
+https://stackoverflow.com/questions/15518418/whats-behind-the-hashcode-method-for-string-in-java<br/>
 https://www.baeldung.com/java-random-string
